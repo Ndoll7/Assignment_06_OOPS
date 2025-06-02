@@ -1,5 +1,7 @@
 🧠 OOP Practice Assignments in Python
+
 Assignment List
+
 Using self:
 Create a Book class. Initialize with title and author using self. Add a summary() method to print both.
 
@@ -78,6 +80,7 @@ Implement a Calculator class with methods for add, subtract, multiply, and divid
 📚 Requirements
 
 Standard Python 3+ installation
+
 No external libraries needed
 
 🎓 Learning Outcomes
@@ -93,5 +96,7 @@ Explore abstract classes, design patterns, and advanced OOP concepts like associ
 Apply decorators and custom object behaviors
 
 Build real-world inspired class structures (e.g., calculators, binary trees, teams)
+
+
 
 Practice these assignments to strengthen your Python OOP skills and prepare for real-world programming challenges! 🚀
